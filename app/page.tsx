@@ -72,7 +72,7 @@ export default function GyanetLanding() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
           <div className="text-center max-w-4xl mx-auto">
             <Badge variant="secondary" className="mb-6 bg-green-500/10 text-green-400 border-green-500/20">
-              🚀 By Students, For Students
+              By Students, For Students
             </Badge>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6">
               Learn Together,{" "}
