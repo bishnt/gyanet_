@@ -327,7 +327,7 @@ export default function GyanetLanding() {
                     <h3 className="text-2xl font-bold text-white">Smart Matching</h3>
                   </div>
                   <p className="text-gray-300 text-lg">
-                    Our AI system matches learners with the most suitable mentors based on subject expertise, grade
+                    Our system matches learners with the most suitable mentors based on subject expertise, grade
                     level, ratings, and availability.
                   </p>
                 </div>
@@ -336,12 +336,12 @@ export default function GyanetLanding() {
                     <div className="space-y-3">
                       <div className="flex items-center space-x-3">
                         <div className="w-8 h-8 bg-green-500 rounded-full"></div>
-                        <span className="text-white">Grade 12 Physics Expert</span>
+                        <span className="text-white">Abhisekh-mentor</span>
                         <Badge className="bg-green-500/20 text-green-400">Online</Badge>
                       </div>
                       <div className="flex items-center space-x-3">
                         <div className="w-8 h-8 bg-blue-500 rounded-full"></div>
-                        <span className="text-white">Mathematics Specialist</span>
+                        <span className="text-white">Sahil-metor</span>
                         <Badge className="bg-yellow-500/20 text-yellow-400">Busy</Badge>
                       </div>
                     </div>
